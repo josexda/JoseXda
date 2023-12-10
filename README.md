@@ -18,5 +18,5 @@ printf "Hello world"
   <br>
    **SM6225-Project [@SM6225-Project](https://github.com/SM6225-Project)**.
   
-[![My GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Vhmit&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/JoseXda)
-[![My used languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vhmit&langs_count=8&theme=github_dark&hide_border=true&layout=compact)](https://github.com/JoseXda)
+[![My GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JoseXda&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/JoseXda)
+[![My used languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JoseXda&langs_count=8&theme=github_dark&hide_border=true&layout=compact)](https://github.com/JoseXda)
